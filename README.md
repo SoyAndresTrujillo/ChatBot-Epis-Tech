@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de un README simplificado basado en el contenido del artículo mencionado:
-
----
-
 # AI-Powered Chatbot with OpenAI's ChatGPT and JavaScript
 
 ## Overview
